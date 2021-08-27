@@ -1,0 +1,10 @@
+package javafirst;
+
+public class Array2 {
+	
+	public static void main()
+	{
+		System.out.println("hiii");
+	}
+
+}

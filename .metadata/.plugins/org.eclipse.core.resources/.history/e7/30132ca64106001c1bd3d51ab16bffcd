@@ -1,0 +1,9 @@
+package javafirst;
+
+public class Array {
+	
+	public   static void print()
+	{
+		System.out.println("hiii");
+	}
+
