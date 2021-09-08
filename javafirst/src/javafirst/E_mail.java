@@ -1,5 +1,4 @@
 package javafirst;
-
 import java.util.Scanner;
 
 public class E_mail {
@@ -8,7 +7,7 @@ public class E_mail {
 		
 	String[] str=new String[] { 
 			
-			"amacgillespie0@ihg.com",
+			
             "amcilwraith1@shinystat.com",
 			"dcarsberg2@yandex.ru",
 			"hbrindle3@ebay.co.uk",
@@ -34,6 +33,4 @@ public class E_mail {
 		}}
 		if(count==0)
 		System.out.println("e-mail not found");
-	
-	
 	}}
